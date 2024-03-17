@@ -4,7 +4,7 @@ import TypingArea from './TypingArea'; // Import the TypingArea component
 
 const SpeedTypingGame = () => { 
 	const paragraphs = [ 
-		"A quick brown fox jumps over the lazy dog iman kutta Iman dhamna."
+		"A quick brown fox jumps over the lazy dog."
 	]; 
 
 	const [typingText, setTypingText] = useState(''); 
